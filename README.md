@@ -1,4 +1,4 @@
 # BHMS3324 – FinTech and Blockchain
-## Semester 2, 2025/26
-#
+## Semester 1, 2026/27
+
 
